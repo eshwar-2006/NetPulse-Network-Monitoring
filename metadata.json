@@ -1,0 +1,6 @@
+{
+  "name": "NetPulse — Real-Time Network Performance Monitoring & Anomaly Detection",
+  "description": "Enterprise-grade real-time network monitoring, statistical anomaly detection, explainable latency forecasting, and incident management system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
